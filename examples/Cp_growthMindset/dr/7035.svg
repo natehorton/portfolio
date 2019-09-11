@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" enable-background="new 0 0 100 64.2" viewBox="0 0 100 64.2" height="64.2px" width="100px" y="0px" x="0px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Playbar">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-11.2443" y1="63.4761" x2="-11.2443" y2="2.0471">
+		<stop offset="0" style="stop-color:#DCDDDF"/>
+		<stop offset="0.1738" style="stop-color:#F2F2F2"/>
+		<stop offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="-524.1" y="0.7" fill="url(#SVGID_1_)" stroke="#808080" stroke-miterlimit="10" width="1025.8" height="63.3"/>
+	<g>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="0.6" y1="7.2" x2="0.6" y2="56.5"/>
+		<line fill="none" stroke="#CCCCCC" stroke-width="0.75" stroke-miterlimit="10" x1="-0.3" y1="7.2" x2="-0.3" y2="56.5"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#CCCCCC" stroke-width="0.75" stroke-miterlimit="10" x1="100" y1="7.2" x2="100" y2="56.5"/>
+	</g>
+	<path stroke="#FFFFFF" stroke-miterlimit="10" d="M51.2,14.9v34L40.6,38.3H30.4V25.4h10.2L51.2,14.9z"/>
+	<g>
+		<g>
+			<path stroke="#FFFFFF" stroke-miterlimit="10" d="M71.9,37.4l-3.3,3.3l-5-5l-5,5l-3.3-3.3l5-5l-5-5l3.3-3.3l5,5l5-5l3.3,3.3l-5,5     L71.9,37.4z"/>
+		</g>
+	</g>
+</g>
+<g id="Information_-_on">
+</g>
+</svg>

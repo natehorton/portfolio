@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" enable-background="new 0 0 100 64.2" viewBox="0 0 100 64.2" height="64.2px" width="100px" y="0px" x="0px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Playbar">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-111.3277" y1="63.4761" x2="-111.3277" y2="2.0471">
+		<stop offset="0" style="stop-color:#DCDDDF"/>
+		<stop offset="0.1738" style="stop-color:#F2F2F2"/>
+		<stop offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="-624.2" y="0.7" fill="url(#SVGID_1_)" stroke="#808080" stroke-miterlimit="10" width="1025.8" height="63.3"/>
+	<g>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" x1="0.8" y1="7.2" x2="0.8" y2="56.5"/>
+		<line fill="none" stroke="#CCCCCC" stroke-width="0.75" stroke-miterlimit="10" x1="-0.1" y1="7.2" x2="-0.1" y2="56.5"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#CCCCCC" stroke-width="0.75" stroke-miterlimit="10" x1="100.1" y1="7.2" x2="100.1" y2="56.5"/>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M71.1,15.7H31.7c-2.7,0-4.9,2.2-4.9,4.9V44c0,2.7,2.2,4.9,4.9,4.9h39.5   c2.7,0,4.9-2.2,4.9-4.9V20.6C76.1,17.9,73.9,15.7,71.1,15.7z M47,37.8c1.2,0,2.4-0.2,3.2-0.5l0.5,3c-0.7,0.3-2.2,0.7-4.2,0.7   c-5.7,0-8.7-3.6-8.7-8.4c0-5.7,4-8.8,9.1-8.8c1.9,0,3.4,0.4,4.1,0.7l-0.8,3c-0.7-0.3-1.8-0.6-3.2-0.6c-3,0-5.3,1.8-5.3,5.5   C41.7,35.7,43.7,37.8,47,37.8z M61.1,37.8c1.2,0,2.4-0.2,3.2-0.5l0.5,3c-0.7,0.3-2.2,0.7-4.2,0.7c-5.8,0-8.7-3.6-8.7-8.4   c0-5.7,4-8.8,9.1-8.8c1.9,0,3.4,0.4,4.1,0.7l-0.8,3c-0.7-0.3-1.8-0.6-3.2-0.6c-3,0-5.3,1.8-5.3,5.5C55.8,35.7,57.8,37.8,61.1,37.8z   "/>
+</g>
+<g id="Information_-_on">
+</g>
+</svg>

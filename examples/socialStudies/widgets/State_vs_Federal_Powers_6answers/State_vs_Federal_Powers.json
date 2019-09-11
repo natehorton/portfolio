@@ -1,0 +1,151 @@
+{
+  "language": "en",
+  "custom": {
+    "sortitems": [
+      {
+        "copied": true,
+        "dropId": "71ac1f6a-24fb-485d-aa12-75076272da70",
+        "oldState": "default",
+        "details": "",
+        "id": "55e97094-a36c-4887-a7f4-dbd503e7d55c",
+        "value": "civil rights",
+        "state": "default",
+        "sortItem": {
+          "details": "",
+          "language": "en",
+          "value": "civil rights"
+        }
+      },
+      {
+        "oldState": "default",
+        "dropId": "015a79b2-dcba-4a50-8328-efe99fa08a22",
+        "details": "",
+        "id": "b0d4b823-aea3-4b39-8677-68af9f6be172",
+        "value": "building/maintaining interstate highways",
+        "state": "default",
+        "sortItem": {
+          "details": "",
+          "language": "en",
+          "value": "building/maintaining interstate highways"
+        }
+      },
+      {
+        "dropId": "71ac1f6a-24fb-485d-aa12-75076272da70",
+        "details": "",
+        "id": "7768bfee-59f1-41e2-b48e-03ab2ce95890",
+        "value": "war declarations",
+        "state": "default",
+        "sortItem": {
+          "details": "",
+          "language": "en",
+          "value": "war declarations"
+        }
+      },
+      {
+        "dropId": "015a79b2-dcba-4a50-8328-efe99fa08a22",
+        "details": "",
+        "id": "f59c2927-5f98-4c18-a13c-ced409907847",
+        "value": "speed limits",
+        "state": "default",
+        "sortItem": {
+          "details": "",
+          "language": "en",
+          "value": "speed limits"
+        }
+      },
+      {
+        "dropId": "71ac1f6a-24fb-485d-aa12-75076272da70",
+        "details": "",
+        "id": "6cb43600-49a9-4b98-8a18-2fe365f080b3",
+        "value": "print money",
+        "state": "default",
+        "sortItem": {
+          "details": "",
+          "language": "en",
+          "value": "print money"
+        }
+      },
+      {
+        "dropId": "015a79b2-dcba-4a50-8328-efe99fa08a22",
+        "details": "",
+        "id": "786d3617-c77d-4cbb-aac4-40ec5868ba1b",
+        "value": "marriage/divorce laws",
+        "state": "default",
+        "sortItem": {
+          "details": "",
+          "language": "en",
+          "value": "marriage/divorce laws"
+        }
+      }
+    ],
+    "sortbuckets": [
+      {
+        "oldState": "default",
+        "droppedChoices": [],
+        "id": "015a79b2-dcba-4a50-8328-efe99fa08a22",
+        "value": "state powers",
+        "state": "default",
+        "sortBucket": {
+          "image": "images/sortingDestinationBoxLeft.png",
+          "language": "en",
+          "value": "state powers"
+        }
+      },
+      {
+        "droppedChoices": [],
+        "id": "71ac1f6a-24fb-485d-aa12-75076272da70",
+        "value": "federal powers",
+        "state": "default",
+        "sortBucket": {
+          "image": "images/sortingDestinationBoxRight.png",
+          "language": "en",
+          "value": "federal powers"
+        }
+      }
+    ],
+    "answerDisplay": "multiple"
+  },
+  "answer": {
+    "tryAgain": "Select here to reset your answer choice(s) and start over.",
+    "showFeedbackToggle": false,
+    "showHint": false,
+    "showTryAgain": false,
+    "showAnswer": false,
+    "type": "single",
+    "feedback": {
+      "hint": "",
+      "closing": "",
+      "opening": "",
+      "netural": "",
+      "partial": "",
+      "incorrect": "",
+      "correct": ""
+    },
+    "maxAttempts": 1,
+    "stickyAnswers": false,
+    "summative": true,
+    "tempResponseOn": false,
+    "tempResponse": "",
+    "label": "Check Answer",
+    "state": "default"
+  },
+  "layout": {
+    "randomize": false,
+    "instantFeedback": {
+      "position": {
+        "right": 0,
+        "bottom": 0,
+        "left": 0,
+        "top": 0
+      },
+      "value": false
+    },
+    "verticalResizing": false,
+    "vertical": false
+  },
+  "header": {
+    "audio": [],
+    "extra": "Sort each power as state or federal.",
+    "question": "Help your politician understand state powers vs federal powers."
+  }
+}

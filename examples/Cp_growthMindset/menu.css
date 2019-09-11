@@ -1,0 +1,177 @@
+body {
+    background:#EEE;
+    cursor: default;
+    font-family: 'Segoe UI','Helvetica', 'Garuda', 'Arial', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    margin:0;
+    padding:0;
+}
+
+.offscreen {
+    color:rgba(0,0,0,0.0);
+    position:absolute;
+}
+
+#wrapper {
+}
+
+#header {
+    border-bottom:5px solid white;
+    width:100%;
+}
+
+#header img {
+    margin:20px 40px;
+}
+
+h2.title {
+    color:#000;
+    cursor:default;
+    font-family:'Segoe UI','Helvetica', 'Garuda', 'Arial', sans-serif;
+    font-size:28px;
+    line-height:30px;
+    margin:0;
+    padding:20px 40px;
+}
+
+h2.orange {
+    background:#B45618;
+    color:#FFF;
+}
+
+h2.purple {
+    background:#482B61;
+    color:#FFF;
+}
+
+h2.blue {
+    background:#1E65AF;
+    color:#FFF;
+}
+
+h2.green {
+    background:#005E2A;
+    color:#FFF;
+}
+
+#content {
+    float:left;
+    margin:0 40px 20px 40px;
+    width:94%;
+}
+
+#content ul {
+    margin-bottom: 14px;
+    padding-left:0;
+    position:relative;
+    list-style: none;
+}
+
+#content ul li {
+    height:30px; 
+    margin:0;
+    padding:8px;
+    width:440px;
+}
+
+#content ul li:hover,
+#content ul li:focus {
+    background:#CCC;
+    border:none;
+    outline:none;
+}
+
+#content ul li a {
+    color:#000;
+    display:block;
+    float:left;
+    font-size:18px;
+    margin:0 10px 7px 0;
+    padding:5px 0 0 20px;
+    text-decoration:none;
+}
+
+.check {
+    float:left;
+    height:30px;
+    position:relative;
+    width:30px;
+}
+
+.arrow {
+    height:30px;
+    left:10px;
+    position:absolute;
+    width:30px;
+}
+
+#footer {
+    border-top:2px solid #FFF;
+    float:left;
+    margin:0 0 0 40px;
+}
+
+#copyright {
+    height:26px;
+    float:left;
+    font-family:'Source Sans Pro', 'Arial', 'Helvetica', sans-serif;
+    font-size:14px;
+    font-weight:bold;
+    line-height:18px;
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+/*ul#footer-nav li {
+    float:left;
+}
+
+ul#footer-nav a {
+    background:#FFF;
+    color:#000;
+    float:left;
+    margin-right:10px;
+    padding:4px 8px 4px 8px;
+}
+
+ul#footer-nav a:hover {
+    background:#CECECE;
+}
+
+ul#footer-nav a:active {
+    background:#999;
+}
+
+ul#footer-nav a span {
+    height:19px;
+    float:left;
+    margin-right:10px;
+    position:relative;
+    width:16px;
+}*/
+
+li#menu span {
+    background:url(menu_btns.png) 0 0 no-repeat;
+}
+
+li#transcript span {
+    background:url(menu_btns.png) -16px 0 no-repeat;
+}
+
+#copyright {
+    float:right;
+    font-size:11px;
+    font-weight:normal;
+    line-height:22px;
+}
+
+#copyright div {
+    float:left;
+    padding:4px 10px 4px 8px;
+}
+
+#copyright div img {
+    float:left;
+}
